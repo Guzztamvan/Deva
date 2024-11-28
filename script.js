@@ -6,7 +6,7 @@ function equal(){
   document.form.display.value = eval(hasil);
 }
 function clean(){
-  document.form.display.value = "";
+  document.form.display.value = "sigmamel🤫";
 }
 function back(){
   var hasil = document.form.display.value;
