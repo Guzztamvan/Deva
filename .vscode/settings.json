@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
+    "liveServer.settings.port": 5501
+=======
     "liveServer.settings.port": 5501,
     "window.zoomLevel": 1,
     "editor.fontSize": 14,
     "editor.wordWrap": "on"
+>>>>>>> 776db62854ea3b8b2c4799a58d324f7adb0bdc0b
 }
