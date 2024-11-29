@@ -6,7 +6,7 @@ function insert(num){
     document.form.display.value = eval(hasil);
   }
   function clean(){
-    document.form.display.value = "";
+    document.form.display.value = "done";
   }
   function back(){
     var hasil = document.form.display.value;
